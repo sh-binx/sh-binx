@@ -2,17 +2,16 @@
 
 Founder / AI Engineer at [undefined Labs](https://undefined-labs.dev), based in Seoul.
 
-I build AI-assisted workflows and custom software. My current work focuses on keeping project context usable across agent sessions, connecting tools to real workflows, and checking what actually happened after an automated task runs.
+I work with AI agents to build software and automate workflows. The questions I am working on now are how agents retain useful project context, use tools with the right constraints, and verify the outcome of an action.
 
-## Work and experiments
+## Current AI and automation work
 
-[Development process and case studies](https://undefined-labs.dev/process) — how I approach context, tool integration, verification, and ongoing operation. The case studies describe the problems and the approaches taken.
+**[AI Trend Notifier](https://trend.undefined-labs.dev)** — a running source-to-wiki workflow with a public reader, linked knowledge pages, and daily briefs. [Published example](https://trend.undefined-labs.dev/daily/2026-10-15) · [Engineering note](https://github.com/sh-binx/AI_Lab/blob/main/notes/ai-trend-notifier.md)
 
-Two public browser projects you can run and inspect:
+**[Agent context and verification](https://github.com/sh-binx/AI_Lab/blob/main/notes/agent-context.md)** — current work on bounded context loading across agent sessions. The note records one measured snapshot and what it does not tell us about task accuracy. [Harness case study](https://undefined-labs.dev/process/agent-harness)
 
-- [ACCRETION](https://github.com/sh-binx/accretion) — a Three.js arcade game built around mass, growth, and black-hole mechanics. [Play](https://sh-binx.github.io/accretion/).
-- [Nova Surge](https://github.com/sh-binx/nova-surge-demo) — a browser action game with movement, upgrades, and a surge mechanic. [Play](https://sh-binx.github.io/nova-surge-demo/).
+[AI Lab](https://github.com/sh-binx/AI_Lab) collects these public notes alongside earlier ML/DL learning code. The notes describe working systems and measured observations; the underlying private implementations are not included.
 
 ## Contact
 
-For a specific project or collaboration, [get in touch](https://undefined-labs.dev/contact).
+For a project or collaboration, [get in touch](https://undefined-labs.dev/contact).
