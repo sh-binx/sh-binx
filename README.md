@@ -6,7 +6,7 @@ I work with AI agents to build software and automate workflows. The questions I 
 
 ## Current AI and automation work
 
-**[AI Trend Notifier](https://trend.undefined-labs.dev)** — a running source-to-wiki workflow with a public reader, linked knowledge pages, and daily briefs. [Published example](https://trend.undefined-labs.dev/daily/2026-10-15) · [Engineering note](https://github.com/sh-binx/AI_Lab/blob/main/notes/ai-trend-notifier.md)
+**[Frontii](https://trend.undefined-labs.dev)** — a running source-to-wiki workflow with a public reader, linked knowledge pages, and daily briefs. [Published example](https://trend.undefined-labs.dev/daily/2026-10-15) · [Engineering note](https://github.com/sh-binx/AI_Lab/blob/main/notes/ai-trend-notifier.md)
 
 **[Agent context and verification](https://github.com/sh-binx/AI_Lab/blob/main/notes/agent-context.md)** — current work on bounded context loading across agent sessions. The note records one measured snapshot and what it does not tell us about task accuracy. [Harness case study](https://undefined-labs.dev/process/agent-harness)
 
